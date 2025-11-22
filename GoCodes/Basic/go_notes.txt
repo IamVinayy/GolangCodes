@@ -1,0 +1,47 @@
+go datatypes - basic datatypes. 
+
+1. bool
+2. string
+3. uint
+4. int
+5. float32
+6. float64
+7. complex64, complex128 
+8. byte
+9. rune
+
+============================================================
+
+var num1 int          ===== this is how you declare a variable in golang 
+var name string 
+
+name := "Vinay"       ===== this is how you do shorthand decleration. 
+
+math.MaxInt           ===== this will give max value for all numtypes , like math.MaxUint8 ... etc. 
+
+%v                    ===== default format specifier. 
+
+%d                    ===== num
+%T                    ===== Type of variable will be printed 
+%t                    ===== tab 
+%s                    ===== string
+
+Most people overestimate what they can do in a year and underestimate what they can do in 10 years. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
