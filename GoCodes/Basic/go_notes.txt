@@ -28,7 +28,18 @@ math.MaxInt           ===== this will give max value for all numtypes , like mat
 
 Most people overestimate what they can do in a year and underestimate what they can do in 10 years. 
 
+============================================================
 
+- Constants are declared with uppercase - 
+
+const PI = 3.14 
+
+const block-
+const {
+    GRAVITY = 9.81
+    COUNT   = 5
+}
+============================================================
 
 
 
