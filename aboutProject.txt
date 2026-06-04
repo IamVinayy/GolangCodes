@@ -1,0 +1,4 @@
+This project, will create a go backend app, with react to frontend and PostgreSql as db. 
+
+will use JWT as well. 
+
